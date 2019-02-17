@@ -1,6 +1,6 @@
 weatherData = {
 
-    apiKey : API,
+    apiKey : config.API,
 
 
     getWeather : function(city, country, callback){
